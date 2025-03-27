@@ -1,5 +1,7 @@
 # MCP Think Tool Server
 
+[![smithery badge](https://smithery.ai/badge/@cgize/claude-mcp-think-tool)](https://smithery.ai/server/@cgize/claude-mcp-think-tool)
+
 A Model Context Protocol (MCP) server implementing the ["think" tool](https://www.anthropic.com/engineering/claude-think-tool) for improving Claude's complex reasoning capabilities.
 
 ## Overview
@@ -40,6 +42,15 @@ When using the think tool:
 
 ## Installation
 
+### Installing via Smithery
+
+To install Think Tool Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@cgize/claude-mcp-think-tool):
+
+```bash
+npx -y @smithery/cli install @cgize/claude-mcp-think-tool --client claude
+```
+
+### Manual Installation
 ```bash
 npm install -g @cgize/mcp-think-tool
 ```
