@@ -1,6 +1,6 @@
 # MCP Think Tool Server
 
-[![smithery badge](https://smithery.ai/badge/@cgize/claude-mcp-think-tool)](https://smithery.ai/server/@cgize/claude-mcp-think-tool)
+[![LightNow capabilities](https://lightnow.ai/badge/io.github.cgize/claude-mcp-think-tool)](https://lightnow.ai/servers/io.github.cgize/claude-mcp-think-tool)
 
 A Model Context Protocol (MCP) server implementing the ["think" tool](https://www.anthropic.com/engineering/claude-think-tool) for improving Claude's complex reasoning capabilities.
 
